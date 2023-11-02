@@ -25,14 +25,14 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Nandini Varshney",
-  title: "Web Designer & Content Creator",
+  title: "Tech Enthusiast and Web Developer",
   email: "nandinivarshney@393.com",
-  gitHub: "microsoft",
-  instagram: "microsoft",
-  linkedIn: "satyanadella",
+  gitHub: "",
+  instagram: "",
+  linkedIn: "",
   medium: "",
-  twitter: "microsoft",
-  youTube: "Code",
+  twitter: "",
+  youTube: "",
 };
 
 const primaryColor = "#4E567E";
