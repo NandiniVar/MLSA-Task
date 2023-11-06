@@ -17,7 +17,8 @@ import React from "react";
  * freely use on your site.
  */
 
-
+import image from "../images/study.jpg";
+const imageAltText = "About image";
 
 
 /**
