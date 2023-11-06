@@ -16,9 +16,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/building.jpg";
+import image from "";
 
-const imageAltText = "purple and blue abstract background";
+const imageAltText = "flowers image";
 
 /**
  * Sort description that expands on your title on the Home component.
